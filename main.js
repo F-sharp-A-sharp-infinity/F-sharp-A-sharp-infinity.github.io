@@ -5223,7 +5223,7 @@ var $author$project$Main$view = function (model) {
 				_List_Nil,
 				_List_fromArray(
 					[
-						$elm$html$Html$text('Oscar\'s website test')
+						$elm$html$Html$text('Oscar\'s website test 2')
 					])),
 				A2(
 				$elm$html$Html$button,
